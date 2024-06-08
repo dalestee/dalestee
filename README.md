@@ -1,17 +1,15 @@
 <h1 align="center">Yollow! I'm Caetano</h1>
 <h3 align="center">🇫🇷 🇧🇷 Computer Science student Passionate about machine learning</h3>
 
-<p align="center">
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=kaggle" alt="Kaggle" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram" />
-  </a>
-</p>
+<a  href="https://linkedin.com/in/caetano-godinat">
+<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://kaggle.com/caetanogodinat">
+<img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=kaggle" alt="Kaggle" />
+</a>
+<a href="https://instagram.com/caetanoyacamim">
+<img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram" />
+</a>
 
 <p align="center">
 <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalestee&layout=donut&theme=radical&bg_color=0D1117&hide_border=true" />
