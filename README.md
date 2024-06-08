@@ -1,7 +1,7 @@
 <h1 align="center">Yollow! I'm Caetano</h1>
 <h3 align="center">🇫🇷 🇧🇷 Computer Science student Passionate about machine learning</h3>
 
-<p align="left">
+<p align="center">
 <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalestee&layout=donut&theme=radical&bg_color=0D1117&hide_border=true" />
 <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=dalestee&theme=radical&bg_color=0D1117&hide_border=true" />
 </p>
@@ -22,9 +22,9 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css" />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/caetano-godinat" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
