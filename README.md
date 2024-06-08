@@ -2,13 +2,13 @@
 <h3 align="center">🇫🇷 🇧🇷 Computer Science student Passionate about machine learning</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/caetano-godinat" style="text-decoration: none;">
+  <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/caetanogodinat" style="text-decoration: none;">
+  <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=kaggle" alt="Kaggle" />
   </a>
-  <a href="https://instagram.com/caetanoyacamim" style="text-decoration: none;">
+  <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram" />
   </a>
 </p>
