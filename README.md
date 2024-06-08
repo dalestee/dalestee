@@ -2,7 +2,6 @@
 <h3 align="center">🇫🇷 🇧🇷 Computer Science student Passionate about machine learning</h3>
 
 <p align="center">
-<div style="text-decoration: none;">
   <a href="https://linkedin.com/in/caetano-godinat" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -12,7 +11,7 @@
   <a href="https://instagram.com/caetanoyacamim" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram" />
   </a>
-</div>
+</p>
 
 <p align="center">
 <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalestee&layout=donut&theme=radical&bg_color=0D1117&hide_border=true" />
