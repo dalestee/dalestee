@@ -1,4 +1,4 @@
-<h1 align="center">Yollow! I'm Caetano</h1>
+<h1 align="center">Hellow! I'm Caetano</h1>
 <h3 align="center">🇫🇷 🇧🇷 Computer Science student Passionate about machine learning</h3>
 
 <p align="center">
